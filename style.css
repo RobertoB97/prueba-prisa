@@ -1,0 +1,16 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.contenido{
+    display: flex;
+    justify-content: center;
+}
+.wrapper{
+    width: 75%;
+    height: auto;
+    background-color: rgb(195, 195, 195);
+}
+.pequeña{
+    width: 150px;
+}
